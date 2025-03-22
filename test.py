@@ -1,1 +1,1 @@
-print("We love Mango")
+print(            "We love Mango"         )
